@@ -1,4 +1,10 @@
 ahihi123
 12312fsdf
 cư
+<<<<<<< HEAD
 been ben ben
+=======
+testting
+>>>>>>> issue53
+
+fsdfdsfdsd
